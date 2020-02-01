@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: c83931e1b48d9524ebb36e51ee502cc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6861894420282137670
+    second: person_0
+  - first:
+      213: -7592463368050987717
+    second: person_1
+  - first:
+      213: -1918943386427310983
+    second: person_2
+  - first:
+      213: 6557288073542464520
+    second: person_3
+  - first:
+      213: -8863321754108521893
+    second: person_4
+  - first:
+      213: 5871441334544041340
+    second: person_5
+  - first:
+      213: -1723351912873679875
+    second: person_6
+  - first:
+      213: 286518434546666578
+    second: person_7
+  - first:
+      213: -165335670386187087
+    second: person_8
+  - first:
+      213: 6962579781589173454
+    second: person_9
+  - first:
+      213: -2979782634355514491
+    second: person_10
+  - first:
+      213: 7819878817054457122
+    second: person_11
+  - first:
+      213: -673730042160572644
+    second: person_12
+  - first:
+      213: -7248785658279930955
+    second: person_13
+  - first:
+      213: 1337698111788429637
+    second: person_14
+  - first:
+      213: -4236523033704946086
+    second: person_15
+  - first:
+      213: -3331981649216993435
+    second: person_16
+  - first:
+      213: 5249256209890806234
+    second: person_17
+  - first:
+      213: -4633781123619581613
+    second: person_18
+  - first:
+      213: -7812601732612612396
+    second: person_19
+  - first:
+      213: -3016416768018190000
+    second: person_20
+  - first:
+      213: -1215558999585740207
+    second: person_21
+  - first:
+      213: 4002587689509858012
+    second: person_22
+  - first:
+      213: -2338370450692191238
+    second: person_23
+  - first:
+      213: 7581237749316257717
+    second: person_24
+  - first:
+      213: 2451359998739933500
+    second: person_25
+  - first:
+      213: -5876958948384708235
+    second: person_26
+  - first:
+      213: -5250621442065188113
+    second: person_27
+  - first:
+      213: 1472894617208971096
+    second: person_28
+  - first:
+      213: -5658689075536217638
+    second: person_29
+  - first:
+      213: 8046711971997570425
+    second: person_30
+  - first:
+      213: -2966919780874583608
+    second: person_31
+  - first:
+      213: -8423240783800227255
+    second: person_32
+  - first:
+      213: 192764345077458033
+    second: person_33
+  - first:
+      213: 1257504199939644717
+    second: person_34
+  - first:
+      213: -3819599628298098580
+    second: person_35
+  - first:
+      213: -1473833584222803690
+    second: person_36
+  - first:
+      213: -5193520977077360190
+    second: person_37
+  - first:
+      213: 7252588268115442153
+    second: person_38
+  - first:
+      213: -6911647590020174610
+    second: person_39
+  - first:
+      213: 1900086587308176125
+    second: person_40
+  - first:
+      213: -1210282708617833055
+    second: person_41
+  - first:
+      213: 5854293319715527949
+    second: person_42
+  - first:
+      213: 8937583836998084907
+    second: person_43
+  - first:
+      213: 7360535624850142406
+    second: person_44
+  - first:
+      213: -6827772192189178853
+    second: person_45
+  - first:
+      213: -4780052111419894853
+    second: person_46
+  - first:
+      213: -2038282731833962603
+    second: person_47
+  - first:
+      213: -2801967038125507248
+    second: person_48
+  - first:
+      213: 2902041938359060710
+    second: person_49
+  - first:
+      213: -8527031453143289951
+    second: person_50
+  - first:
+      213: 408904214480404013
+    second: person_51
+  - first:
+      213: -7852388276279909599
+    second: person_52
+  - first:
+      213: 7446938296563106947
+    second: person_53
+  - first:
+      213: -1190948250088694017
+    second: person_54
+  - first:
+      213: 797884482593900675
+    second: person_55
+  - first:
+      213: -4105029157018446656
+    second: person_56
+  - first:
+      213: 3178295142518982538
+    second: person_57
+  - first:
+      213: -436348432842623754
+    second: person_58
+  - first:
+      213: 416370864596636989
+    second: person_59
+  - first:
+      213: -490873881881178260
+    second: person_60
+  - first:
+      213: 7170622814719962431
+    second: person_61
+  - first:
+      213: -3287605408660757947
+    second: person_62
+  - first:
+      213: 3461620777849682146
+    second: person_63
+  - first:
+      213: -2685970331159086424
+    second: person_64
+  - first:
+      213: -8525363047918893680
+    second: person_65
+  - first:
+      213: 6341348317065655798
+    second: person_66
+  - first:
+      213: -1306828354607382610
+    second: person_67
+  - first:
+      213: 5752641757521946798
+    second: person_68
+  - first:
+      213: 4866239833162961085
+    second: person_69
+  - first:
+      213: 5909043319967914139
+    second: person_70
+  - first:
+      213: -1392369606446221368
+    second: person_71
+  - first:
+      213: 8028245863691407379
+    second: person_72
+  - first:
+      213: 1530977740919523582
+    second: person_73
+  - first:
+      213: -579821745342131117
+    second: person_74
+  - first:
+      213: -2007828055409068022
+    second: person_75
+  - first:
+      213: 4927281191657442217
+    second: person_76
+  - first:
+      213: -4437066591230124213
+    second: person_77
+  - first:
+      213: 565748408683707043
+    second: person_78
+  - first:
+      213: 7994600235549520414
+    second: person_79
+  - first:
+      213: 5522629611241437476
+    second: person_80
+  - first:
+      213: 3972046100164280083
+    second: person_81
+  - first:
+      213: 1058667072469573915
+    second: person_82
+  - first:
+      213: 6256353050228641546
+    second: person_83
+  - first:
+      213: -8765554383206546781
+    second: person_84
+  - first:
+      213: 2995140312909051652
+    second: person_85
+  - first:
+      213: 3158823695545528342
+    second: person_86
+  - first:
+      213: -4716667430074892186
+    second: person_87
+  - first:
+      213: 4723374260332584079
+    second: person_88
+  - first:
+      213: -6526661414221229996
+    second: person_89
+  - first:
+      213: 3988743362729477752
+    second: person_90
+  - first:
+      213: 5881282881789547920
+    second: person_91
+  - first:
+      213: 5530006480735109279
+    second: person_92
+  - first:
+      213: 2508477140619346676
+    second: person_93
+  - first:
+      213: 771961116416426280
+    second: person_94
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: person_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 348
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cd62f8e985a3f50800000000000000
+      internalID: 6861894420282137670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 348
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3da7291bc622a690800000000000000
+      internalID: -7592463368050987717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 348
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c3ae3382b8e55e0800000000000000
+      internalID: -1918943386427310983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_3
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 348
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8047769c2ca200b50800000000000000
+      internalID: 6557288073542464520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 348
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b529e5413d72ff480800000000000000
+      internalID: -8863321754108521893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_5
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 348
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c750b0919cc8b7150800000000000000
+      internalID: 5871441334544041340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_6
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 0
+        width: 348
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3ac22e09c6518e0800000000000000
+      internalID: -1723351912873679875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: person_7
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 0
+        width: 348
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c41c88ffae9f300800000000000000
+      internalID: 286518434546666578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
