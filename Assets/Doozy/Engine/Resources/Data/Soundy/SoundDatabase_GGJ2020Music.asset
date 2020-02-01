@@ -44,6 +44,7 @@ MonoBehaviour:
     type: 2}
   SoundNames:
   - No Sound
+  - AndyOneManBand
   - No Sound
   Database:
   - {fileID: -8196581571343660409}
