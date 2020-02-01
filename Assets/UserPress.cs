@@ -6,17 +6,32 @@ using Doozy.Engine;
 [RequireComponent(typeof(MeshCollider))]
 public class UserPress : MonoBehaviour
 {
-    public int ClicksToRemove;
+    public int ClicksToRemove = 5;
+    public bool PopOff = true;
 
     void OnMouseDown()
     {
-        GameEventMessage.SendEvent("Sabotage", gameObject);
+        DealDamage();
     }
 
     void DealDamage()
     {
+        if (!IsAlive())
+        {
+            return;
+        }
+
         ClicksToRemove--;
-        if ()
+        GameEventMessage.SendEvent("Sabotage", gameObject);
+
+        print("Sabotage " + name + ", clicks left: " + ClicksToRemove);
+
+        if (!IsAlive() && PopOff)
+        {
+            Rigidbody rigidbody = gameObject.AddComponent<Rigidbody>();
+            rigidbody.AddForce(transform.forward * 5, ForceMode.Impulse);
+            GetComponent<MeshCollider>().enabled = false;
+        }
     }
 
     bool IsAlive()
