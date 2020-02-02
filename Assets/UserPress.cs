@@ -12,6 +12,8 @@ public class UserPress : MonoBehaviour
     public string PressEvent = "Damage";
     public string DestroyEvent = "Sabotage";
 
+    public Vector3 ForceAmount = Vector3.up;
+
     void OnMouseDown()
     {
         DealDamage();
@@ -33,8 +35,9 @@ public class UserPress : MonoBehaviour
         {
             GameEventMessage.SendEvent("Sabotage", gameObject);
             Rigidbody rigidbody = gameObject.AddComponent<Rigidbody>();
-            rigidbody.AddForce(transform.forward * 5, ForceMode.Impulse);
-            GetComponent<MeshCollider>().enabled = false;
+            rigidbody.AddForce(ForceAmount, ForceMode.Impulse);
+            rigidbody.AddForce(Random.insideUnitSphere * 2, ForceMode.Impulse);
+            // GetComponent<MeshCollider>().enabled = false;
             ScoreManager.instance.Score += DamageScore;
         }
     }

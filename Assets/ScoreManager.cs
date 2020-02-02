@@ -34,10 +34,15 @@ public class ScoreManager : MonoBehaviour
         {
             score = value;
             print("Score is " + score + "!");
-            ScoreText.text = "$" + score;
+            ScoreText.text = string.Format("{0:C}", score); ;
             // GameEventMessage.SendEvent("UpdateScore");
         }
     }
 
     public Text ScoreText;
+
+    private void Start()
+    {
+        Score = 0;
+    }
 }
